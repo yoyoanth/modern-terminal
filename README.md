@@ -1,57 +1,57 @@
 # Modern Terminal
 
-A modern terminal project focused on a cleaner, simpler, and more comfortable command-line experience on Windows.
+Modern Terminal adalah proyek terminal modern yang berfokus pada pengalaman command-line di Windows yang lebih bersih, sederhana, dan nyaman digunakan.
 
-> Developed by [@yoyoanth](https://github.com/yoyoanth)
+> Dikembangkan oleh [@yoyoanth](https://github.com/yoyoanth)
 
-## About
+## Tentang Proyek
 
-Modern Terminal is a personal desktop terminal project designed to provide a more modern interface while keeping the familiar workflow of a command-line terminal.
+Modern Terminal adalah proyek terminal desktop pribadi yang dirancang untuk memberikan tampilan yang lebih modern tanpa menghilangkan alur kerja command-line yang sudah familiar.
 
-The project is currently under development. Source files, documentation, screenshots, and downloadable builds will be added progressively.
+Proyek ini masih dalam tahap pengembangan. Source code, dokumentasi, screenshot, dan versi aplikasi yang dapat diunduh akan ditambahkan secara bertahap.
 
-## Goals
+## Tujuan
 
-- Clean and modern terminal interface
-- Simple and familiar command-line workflow
-- Comfortable desktop experience
-- Windows-focused distribution
-- Easy installation for end users
+- Antarmuka terminal yang bersih dan modern
+- Alur kerja command-line yang sederhana dan familiar
+- Pengalaman penggunaan desktop yang lebih nyaman
+- Fokus pada sistem operasi Windows
+- Instalasi yang mudah untuk pengguna
 
 ## Download
 
-Official downloadable builds will be published through the repository's **Releases** page when available.
+Versi resmi yang dapat diunduh akan dipublikasikan melalui halaman **Releases** pada repository ini ketika sudah tersedia.
 
-[View Releases](https://github.com/yoyoanth/modern-terminal/releases)
+[Lihat Releases](https://github.com/yoyoanth/modern-terminal/releases)
 
-> For security, download Modern Terminal only from this official repository or its official GitHub Releases page.
+> Untuk keamanan, unduh Modern Terminal hanya melalui repository resmi ini atau halaman GitHub Releases resminya.
 
-## Installation
+## Instalasi
 
-When a Windows build is available:
+Jika versi Windows sudah tersedia:
 
-1. Open the **Releases** page.
-2. Download the latest `.exe` release.
-3. Run the application.
-4. Follow any installation instructions included with that release.
+1. Buka halaman **Releases**.
+2. Unduh file `.exe` versi terbaru.
+3. Jalankan aplikasi.
+4. Ikuti petunjuk instalasi yang tersedia pada versi tersebut.
 
-## Project Status
+## Status Proyek
 
-🚧 **In development**
+🚧 **Dalam pengembangan**
 
-The repository is being prepared for its first public release.
+Repository ini sedang dipersiapkan untuk rilis publik pertamanya.
 
-## Feedback
+## Masukan dan Laporan Bug
 
-Found a bug or have a suggestion? You can submit it through GitHub Issues.
+Menemukan bug atau memiliki saran? Silakan kirim melalui GitHub Issues.
 
-[Open an Issue](https://github.com/yoyoanth/modern-terminal/issues)
+[Buka GitHub Issues](https://github.com/yoyoanth/modern-terminal/issues)
 
-## Author
+## Pengembang
 
 **Yoyoanth**  
 GitHub: [github.com/yoyoanth](https://github.com/yoyoanth)
 
 ---
 
-Made with code, curiosity, and continuous improvement.
+Dibuat dengan kode, rasa ingin tahu, dan pengembangan yang berkelanjutan.
